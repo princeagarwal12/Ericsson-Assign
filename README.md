@@ -25,8 +25,8 @@ where,  **f(n)** = lowest cost in the neighboring node n <br />
 * Optimal path is such that it is shorter also and contains maximum possible trees 
 * Nodes are equidistant as adjacent spots on grid represent nodes
 
-## Running The code
-![A-star](https://github.com/saif191020/Astar-Pathfinding-Visualizer/blob/master/astar.gif)
+## Running The code:
+![A-star](https://github.com/princeagarwal12/Ericsson-Assign/blob/master/gif1.gif)
 * Left Click on the blocks to place the start point (ORANGE)/ end point(BLUE) /barriers(BLACK)
 * Right click to remove any spot
 * Middle Click to place a tree node (GREEN)
@@ -35,9 +35,7 @@ where,  **f(n)** = lowest cost in the neighboring node n <br />
 * Path is shown in purple
 * Red and Yellow spots represents the explored nodes during algorithm run 
 
-## Dependencies
+## Dependencies:
 
 * [Python 3](https://www.python.org/) - The Programming Language used.
 * [PyGame](https://www.pygame.org/news) - Pygame is a cross-platform set of Python modules designed for writing video games.
-
-![Alt text](https://github.com/princeagarwal12/Ericsson-Assign/blob/main/example.jpg?raw=true "Example")

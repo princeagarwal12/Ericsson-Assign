@@ -27,6 +27,7 @@ where,  **f(n)** = lowest cost in the neighboring node n <br />
 
 ## Running The code:
 ![A-star](https://github.com/princeagarwal12/Ericsson-Assign/blob/main/gif1.gif)
+![A-star](https://github.com/princeagarwal12/Ericsson-Assign/blob/main/gif2.gif)
 * Left Click on the blocks to place the start point (ORANGE)/ end point(BLUE) /barriers(BLACK)
 * Right click to remove any spot
 * Middle Click to place a tree node (GREEN)
